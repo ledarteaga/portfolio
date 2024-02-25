@@ -8,8 +8,7 @@
     </h1>
     <p class="text-gray-900 dark:text-gray-400">
       <br>
-      <br>
-      Desarrollador web con experiencia en Vue, Typescript y Flutter que te ayuda a crear webs y aplicaciones que
+      Desarrollador web con experiencia en Vue, Typescript y Flutter. Enfocado en crear webs y aplicaciones que
       generan resultados.
       <br>
       <br>
@@ -20,7 +19,7 @@
       ¿Quieres saber cómo puedo ayudarte? Contactame y juntos construiremos la solución perfecta para tu negocio.
     </p>
     <p class="text-gray-900 dark:text-gray-400">
-      Actualmente soy un desarrollador frontend en
+      Actualmente un desarrollador frontend en
       <a href="https://boxmis.com" target="_blank" class="underline">Boxmis</a>.
     </p>
   </div>
