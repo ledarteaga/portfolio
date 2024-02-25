@@ -7,10 +7,9 @@
       ¡Hola!
     </h1>
     <p class="text-gray-900 dark:text-gray-400">
-      <b>¿Deseas impulsar tu negocio a nuevos niveles?</b>
       <br>
       <br>
-      Soy un desarrollador web con experiencia en Vue, Typescript y Flutter que te ayuda a crear webs y aplicaciones que
+      Desarrollador web con experiencia en Vue, Typescript y Flutter que te ayuda a crear webs y aplicaciones que
       generan resultados.
       <br>
       <br>
@@ -29,7 +28,7 @@
 
 <script setup>
 useSeoMeta({
-  title: "Luis Arteaga",
+  title: "Luis Arteaga | Frontend Developer",
   description:
     "Soy un desarrollador frontend con experiencia en Vue, Typescript y Flutter que te ayuda a crear webs y aplicaciones que generan resultados.",
 });
