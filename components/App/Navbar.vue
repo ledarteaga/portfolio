@@ -32,17 +32,17 @@ const headerRef = ref(null);
 const { styles } = useFixedHeader(headerRef);
 
 const items = [
-  { name: "Home", path: "/", icon: "solar:home-smile-outline" },
+  { name: "Inicio", path: "/", icon: "solar:home-smile-outline" },
   {
-    name: "Projects",
+    name: "Proyectos",
     path: "/projects",
     icon: "solar:folder-with-files-outline",
   },
 
-  {
-    name: "Bookmarks",
-    path: "/bookmarks",
-    icon: "solar:bookmark-linear",
-  },
+  // {
+  //   name: "CV",
+  //   path: "/cv",
+  //   icon: "solar:document-outline",
+  // },
 ];
 </script>
