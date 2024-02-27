@@ -2,7 +2,7 @@
   "name": "Movie Catalog",
   "url": "https://github.com/ledarteaga/movie_catalog",
   "description": "App de series y peliculas. Desarrollado con Flutter, GETX y TMDB API.",
-  "thumbnail": "/projects/hawa.png",
+  "thumbnail": "/projects/movie_catalog.png",
   "status": "Active",
   "opensource": false
 }
