@@ -1,8 +1,0 @@
-{
-  "name": "Boxmis Client",
-  "url": "https://play.google.com/store/apps/details?id=com.boxmis.client",
-  "description": "Solución para agencias de carga digital. App híbrida desarrollada con Flutter.",
-  "thumbnail": "https://play-lh.googleusercontent.com/esQfXKjCbsbRf9hPi2Txa9DW6BpGk7j74edgYtldfmy3v0YlHjvnnwOcLqVO6XKrvA=w240-h480-rw",
-  "status": "WIP",
-  "opensource": false
-}

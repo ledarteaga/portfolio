@@ -1,0 +1,7 @@
+{
+  "name": "Panoramica Consulting",
+  "url": "https://panoramica.pe",
+  "description": "Landing Page creada para agencia de marketing. Desarrollada con Nuxt, Tailwind CSS y desplegada con Netlify.",
+  "thumbnail": "https://panoramica.pe/assets/images/favicon.png",
+  "status": "Active"
+}
