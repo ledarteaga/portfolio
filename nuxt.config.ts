@@ -13,6 +13,9 @@ export default defineNuxtConfig({
   ui: {
     icons: ["heroicons", "lucide"],
   },
+  nitro: {
+    preset: "netlify-static",
+  },
   app: {
     pageTransition: { name: "page", mode: "out-in" },
     head: {
