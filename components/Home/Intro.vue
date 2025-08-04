@@ -22,7 +22,7 @@
     </p>
     <p class="text-gray-900 dark:text-gray-400">
       Actualmente un desarrollador frontend en
-      <a href="https://boxmis.com" target="_blank" class="underline">Boxmis</a>.
+      <a href="https://www.balidea.com" target="_blank" class="underline">Balidea Consulting</a>.
     </p>
   </div>
 </template>
